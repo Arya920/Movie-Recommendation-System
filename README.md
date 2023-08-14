@@ -39,7 +39,7 @@
   
 
 ## Key Points
-- Developed by [Arya Chakraborty](linkedin.com/in/arya-chakraborty2002) and [Rituparno Das](linkedin.com/in/rituparno-das-473a01198) students of VIT-AP.
+- Developed by [Arya Chakraborty](https://www.linkedin.com/in/arya-chakraborty2002/) and [Rituparno Das](https://www.linkedin.com/in/rituparno-das-473a01198/) students of VIT-AP.
 - The application utilizes the [TMDB API](https://developer.themoviedb.org/docs/getting-started) to fetch movie data and posters.
 - The recommendation system uses TF-IDF vectorization and cosine similarity for efficient movie suggestions.
 - Users can select movies to get recommendations or choose genres for genre-based recommendations.
