@@ -47,3 +47,6 @@
 - The app is deployed using Streamlit sharing.
 - Feel free to explore and enjoy movie recommendations tailored to your taste!
 
+## Credits 
+
+![Arya Chakraborty](Arya_pic.jpg)
