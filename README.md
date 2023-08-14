@@ -50,3 +50,4 @@
 ## Credits 
 
 ![Arya Chakraborty](Arya_pic.jpg)
+![Rituparno Das](Ritu_pic.jpg)
